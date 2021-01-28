@@ -26,7 +26,7 @@ SECRET_KEY = '!@f9u88e9d$0n$eltw&y5_i6q^fu_m(d4=y)_tza2@qt)^h=u+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dart-blog-v.herokuapp.com']
 
 
 # Application definition
